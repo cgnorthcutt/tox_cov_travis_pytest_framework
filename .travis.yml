@@ -14,4 +14,4 @@ install:
 # command to run tests
 script:
   - tox 
-  - bash <(curl -s https://codecov.io/bash) -t a9a27c70-d1dd-4d8b-bd05-8a506ce24fb2
+  - bash <(curl -s https://codecov.io/bash) -t 1b1fd570-e81e-44cf-b47f-78a050315a39
